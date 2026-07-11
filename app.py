@@ -1,5 +1,5 @@
 import streamlit as st
-from langchain.chat_models import ChatOpenAI
+from langchain_openai import ChatOpenAI
 
 # Title
 st.set_page_config(page_title="Cocktail x Z Ai Builder")
