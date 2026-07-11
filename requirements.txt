@@ -1,6 +1,7 @@
 streamlit
 openai
 langchain
+langchain-openai
 crewai
 requests
 pillow
